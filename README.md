@@ -1,2 +1,4 @@
-# cardcount-training
-C program for training with card counting usually in blackjack
+# Card Counting Training
+Simple C program to help training with card counting (HiLo).
+
+Made to aid me in my plan.
